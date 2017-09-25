@@ -1,0 +1,34 @@
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\bin\Debug\Conference System.exe
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\bin\Debug\Conference System.pdb
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\bin\Debug\DShowNET.dll
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\bin\Debug\DShowNET.pdb
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\Conference System.csprojResolveAssemblyReference.cache
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.About.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.MainForm1.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.DeviceSelector.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Form1.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.MainForm.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.msg1.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Receiver.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Form_VOIP.resources
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\Conference System.csproj.GenerateResource.Cache
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\Conference System.exe
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\Conference System.pdb
+C:\Dot Net Network Programming\2-Transport & Network Layer Programming\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Properties.Resources.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\Conference System.exe
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\Conference System.pdb
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\bin\Debug\Conference System.exe
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\bin\Debug\Conference System.pdb
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\bin\Debug\DShowNET.dll
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\bin\Debug\DShowNET.pdb
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\Conference System.csprojResolveAssemblyReference.cache
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.About.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.MainForm1.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.DeviceSelector.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Form1.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.MainForm.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.msg1.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Properties.Resources.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Receiver.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\SampleGrabberNET.Form_VOIP.resources
+D:\Studies\Project Documentation\Multicast Conference Systems\Conference System\obj\Debug\Conference System.csproj.GenerateResource.Cache
